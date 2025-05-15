@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm anacasx, a passionate developer!
+I'm anacasx, software development undergraduate!
 
 ## Technology Stack
 
